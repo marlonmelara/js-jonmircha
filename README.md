@@ -1,4 +1,4 @@
-# 📘 Curso de JavaScript - Jon Mircha
+# 📘 JavaScript course by Jon Mircha
 
 This folder contains learning material and exercises from the **JavaScript course by Jon Mircha**, a popular Spanish-speaking instructor known for his deep and clear explanations of JavaScript fundamentals.
 
@@ -49,5 +49,3 @@ To understand JavaScript step-by-step with a solid theoretical and practical fou
 This content reinforces ES5/ES6 fundamentals and helps transition toward more advanced topics like asynchronous programming.
 
 ---
-
-> This folder is part of the main repository: [js-courses](https://github.com/marlonmelara/js-courses)
